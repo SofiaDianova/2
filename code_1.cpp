@@ -6,7 +6,8 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	int x = 10;
-	cout << x;
+	int y = 2*x;
+	cout << x << endl << y;
 	cin >> x;
 	return 0;
 }
