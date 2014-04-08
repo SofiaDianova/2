@@ -9,3 +9,4 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << x;
 	cin >> x;
 	return 0;
+}
